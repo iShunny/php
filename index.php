@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Inicio</title>
+		<title>Clovis</title>
 		<link href="css/menu.css" rel="stylesheet" type="text/css" />
 		<link href="css/index.css" rel="stylesheet" type="text/css" />
 	</head>
